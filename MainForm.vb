@@ -1,4 +1,4 @@
-Public Class Form1
+Public Class MainForm
     Dim x, y, z As Integer
 
     Private Sub CalcButton_Click(sender As Object, e As EventArgs) Handles CalcButton.Click
